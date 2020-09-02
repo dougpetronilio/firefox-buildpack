@@ -1,5 +1,5 @@
-[![Hits-of-Code](https://hitsofcode.com/github/yegor256/firefox-buildpack)](https://hitsofcode.com/view/github/yegor256/firefox-buildpack)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/firefox-buildpack/blob/master/LICENSE.txt)
+[![Hits-of-Code](https://hitsofcode.com/github/dougpetronilio/firefox-buildpack)](https://hitsofcode.com/view/github/dougpetronilio/firefox-buildpack)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/dougpetronilio/firefox-buildpack/blob/master/LICENSE.txt)
 
 This is a [Heroku buildpack](http://devcenter.heroku.com/articles/buildpacks)
 with Firefox 68.0.2.
@@ -7,7 +7,7 @@ with Firefox 68.0.2.
 To install it, from the command line:
 
 ```bash
-$ heroku buildpacks:add http://github.com/yegor256/firefox-buildpack
+$ heroku buildpacks:add http://github.com/dougpetronilio/firefox-buildpack
 ```
 
 You may also need [buitron/geckodriver-buildpack](http://github.com/buitron/geckodriver-buildpack)
